@@ -9,6 +9,6 @@ package com.liulei.luceneinaction;
  */
 public class Test {
     public static void main(String[] args) {
-        System.out.println("Lucene in action");
+        System.out.println("Lucene实战");
     }
 }
